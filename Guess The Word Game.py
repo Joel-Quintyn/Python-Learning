@@ -56,7 +56,7 @@ def update_clue(guessed_letter, secret_word, clue, unknown_letters):
 
 
 while lives > 0:
-    print('\n\n\n\n\nLives left: ' + heart_symbol * lives)
+    print('\n\n\n\n\nLives left: ', '\033[31m', heart_symbol * lives, '\033[0m')
     print(clue)
     guess = input('Guess a letter or the whole word: ').lower()
 
