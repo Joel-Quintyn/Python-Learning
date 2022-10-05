@@ -2,7 +2,7 @@
 
 This Repository Contains A Number Of Small Projects That I Did While Studying Python Language, From Beginner to Highly Advanced.
 
-The Initial Set Of Programs Were Built In C, My First Official Programming Language, Rewritten Over To Python. I Did This Not Only To Test My Competence In Python But To Improve My Skill In Debugging, Which Was Very Strong Due To My Endeavours in C (If You Know You Know).
+My first official programming language, C, was used to create the initial set of programs, which were then converted to Python. I did this to test my Python proficiency as well as to hone my debugging skills, which were already very strong thanks to my work in C. (If You Know You Know).
 
 **Contents** (Beginner - Advanced) **:**
 * [Salary Calculator.py](./Salary%20Calculator.py)
